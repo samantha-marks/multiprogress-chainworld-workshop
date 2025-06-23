@@ -5,6 +5,8 @@ It contains an .ipynb notebook reproducing the main results of the paper and a d
 
 # Instructions for Use
 The focal point that this codebase is centered around is the main notebook, 
+```
     multiprogress_chainworld.ipynb
+```
 Start by opening the main notebook, multiprogress_chainworld.ipynb.  Follow
 the instructions there for running it.
